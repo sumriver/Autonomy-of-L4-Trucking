@@ -16,7 +16,10 @@ Other L4 related, such as RoboTaxi:
 ## 3. Algorithm of Autonomy
 #### Perception
 - Offboard 3D Object Detection from Point Cloud Sequences
+
 #### Prediction
+- MultiPath++
+
 #### Motion Planning
 
-## 3. Main Challenge
+## 4. Main Challenge
