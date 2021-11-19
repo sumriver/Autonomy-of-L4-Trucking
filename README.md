@@ -7,6 +7,9 @@
 - Embark
 - Waymo
 
+Other L4 related, such as RoboTaxi:
+- Cruise
+
 ## 2. Main Researcher institution
 - Bin Yang, waabi, http://www.cs.toronto.edu/~byang/
 
