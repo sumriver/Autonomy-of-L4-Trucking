@@ -25,16 +25,22 @@ Other L4 related, such as RoboTaxi:
 - Overview (zhihu), https://zhuanlan.zhihu.com/p/59089908
 
 #### Offline Perception/Auto-labeling
-- Offboard 3D Object Detection from Point Cloud Sequences
+- Offboard 3D Object Detection from Point Cloud Sequences, https://arxiv.org/abs/2103.05073
+- Auto4D: Learning to Label 4D Objects from Sequential Point Clouds, https://arxiv.org/pdf/2101.06586.pdf
 
 ## 4. Simulation
-#### Carla
+#### Carla, https://github.com/carla-simulator/carla
+#### LGSVL, https://github.com/lgsvl/simulator
+#### Research paper
+- SurfelGAN, https://openaccess.thecvf.com/content_CVPR_2020/papers/Yang_SurfelGAN_Synthesizing_Realistic_Sensor_Data_for_Autonomous_Driving_CVPR_2020_paper.pdf
+- GeoSim, https://openaccess.thecvf.com/content/CVPR2021/papers/Chen_GeoSim_Realistic_Video_Simulation_via_Geometry-Aware_Composition_for_Self-Driving_CVPR_2021_paper.pdf
+- Towards Optimal Strategies for Training Self-Driving Perception Models in Simulation, https://arxiv.org/pdf/2111.07971.pdf
 
 ## 5. OpenSource code/dataset
 #### Code implementation
 - Camera based dense object tracking : https://github.com/SysCV/qd-3dt
 
 #### Dataset
-https://www.siasearch.io/blog/best-open-source-autonomous-driving-datasets
+- https://www.siasearch.io/blog/best-open-source-autonomous-driving-datasets
 
 ## 6. Main Challenge
