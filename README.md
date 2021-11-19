@@ -11,6 +11,12 @@ Other L4 related, such as RoboTaxi:
 - Cruise,  https://www.youtube.com/watch?v=uJWN0K26NxQ
 
 ## 2. Main Researcher institution
-- Bin Yang, waabi, http://www.cs.toronto.edu/~byang/
+- Bin Yang, Waabi, http://www.cs.toronto.edu/~byang/
+
+## 3. Algorithm of Autonomy
+#### Perception
+- Offboard 3D Object Detection from Point Cloud Sequences
+#### Prediction
+#### Motion Planning
 
 ## 3. Main Challenge
