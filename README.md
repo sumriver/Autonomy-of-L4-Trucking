@@ -30,4 +30,7 @@ Other L4 related, such as RoboTaxi:
 ## 4. Simulation
 #### Carla
 
-## 5. Main Challenge
+## 5. OpenSource code
+- Camera based dense object tracking : https://github.com/SysCV/qd-3dt
+
+## 6. Main Challenge
