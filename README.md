@@ -1,4 +1,5 @@
 # Perception-of-L4-Trucking
+This is the summary on public resources, such as industry solutions, academic papers and youtube talks. I collected them during my work and hope the sharing can help you:-)
 
 ## 1. Main Player
 - Aurora, https://www.youtube.com/watch?v=EOhR_RIKmEI
