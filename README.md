@@ -1,7 +1,7 @@
 # Perception-of-L4-Trucking
 
 ## 1. Main Player
-- Aurora
+- Aurora, https://www.youtube.com/watch?v=EOhR_RIKmEI
 - TuSimple
 - Torc.ai
 - Embark
