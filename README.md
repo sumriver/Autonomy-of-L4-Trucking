@@ -16,10 +16,11 @@ Other L4 related, such as RoboTaxi:
 
 ## 3. Algorithm of Autonomy
 #### Perception
-
+- FIERY: Future Instance Prediction in Bird's-Eye View from Surround Monocular Cameras, https://arxiv.org/abs/2104.10490
+- RadarNet: Exploiting Radar for Robust Perception of Dynamic Objects, https://arxiv.org/pdf/2007.14366.pdf
 
 #### Prediction
-- MultiPath++
+- MultiPath++, https://arxiv.org/abs/1910.05449
 
 #### Motion Planning
 - Overview (zhihu), https://zhuanlan.zhihu.com/p/59089908
