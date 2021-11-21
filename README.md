@@ -12,6 +12,7 @@ Other L4 related, such as RoboTaxi:
 - Cruise,  https://www.youtube.com/watch?v=uJWN0K26NxQ
 
 ## 2. Main Researcher institution
+- Prof. Raquel Urtasun, http://www.cs.toronto.edu/~urtasun/
 - Bin Yang, Waabi, http://www.cs.toronto.edu/~byang/
 
 ## 3. Algorithm of Autonomy
