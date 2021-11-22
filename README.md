@@ -2,7 +2,7 @@
 This is the summary on public resources, such as industry solutions, academic papers and youtube talks. I collected them during my work and hope the sharing can help you:-)
 
 ## 1. Main Player
-- Aurora, [link] (https://www.youtube.com/watch?v=EOhR_RIKmEI)
+- Aurora, [link](https://www.youtube.com/watch?v=EOhR_RIKmEI)
 - TuSimple, https://www.youtube.com/watch?v=zM7oGhEq2Jo
 - Torc.ai, https://torc.ai
 - Embark, https://embarktrucks.com
