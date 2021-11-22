@@ -26,6 +26,11 @@ Other L4 related, such as RoboTaxi:
 #### Motion Planning
 - Overview (zhihu), https://zhuanlan.zhihu.com/p/59089908
 
+#### Vision Lidar (Vidar)
+- MobileEye, Stereo Camera, https://s21.q4cdn.com/600692695/files/doc_presentations/2020/1/Mobileye-CES-2020-presentation.pdf
+- Waymo, Multiple Monocular Camera, https://youtu.be/rbDuK5e1bWw?t=555
+- Tesla, Multiple Monocular Cameras, https://www.youtube.com/watch?v=NSDTZQdo6H8
+
 #### Offline Perception/Auto-labeling
 - Offboard 3D Object Detection from Point Cloud Sequences, https://arxiv.org/abs/2103.05073
 - Auto4D: Learning to Label 4D Objects from Sequential Point Clouds, https://arxiv.org/pdf/2101.06586.pdf
