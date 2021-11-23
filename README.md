@@ -25,6 +25,7 @@ Other L4 related, such as RoboTaxi:
 - End-to-End Perception and Prediction with Tracking in the Loop, 2020 [link](https://arxiv.org/pdf/2005.14711.pdf)
 - How To Train Your Deep Multi-Object Tracker, 2020 [link](https://arxiv.org/abs/1906.06618)
 - Learning a Neural Solver for Multiple Object Tracking, 2020 [link](https://arxiv.org/abs/1912.07515)
+- Spatial-Temporal Relation Networks for Multi-Object Tracking, 2019 [link](https://arxiv.org/pdf/1904.11489.pdf)
 
 #### Prediction
 - MultiPath++, https://arxiv.org/abs/1910.05449
