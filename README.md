@@ -19,8 +19,12 @@ Other L4 related, such as RoboTaxi:
 #### Perception
 - FIERY: Future Instance Prediction in Bird's-Eye View from Surround Monocular Cameras, 2021 [link](https://arxiv.org/abs/2104.10490)
 - RadarNet: Exploiting Radar for Robust Perception of Dynamic Objects, [link](https://arxiv.org/pdf/2007.14366.pdf)
-- End-to-End Perception and Prediction with Tracking in the Loop, 2020 [link](https://arxiv.org/pdf/2005.14711.pdf)
 - Fast and furious: Real time end-to-end 3d detection, tracking and motion forecasting with a single convolutional net, 2018 [link](https://openaccess.thecvf.com/content_cvpr_2018/papers/Luo_Fast_and_Furious_CVPR_2018_paper.pdf)
+
+#### DL Tracker
+- End-to-End Perception and Prediction with Tracking in the Loop, 2020 [link](https://arxiv.org/pdf/2005.14711.pdf)
+- How To Train Your Deep Multi-Object Tracker, 2020 [link](https://arxiv.org/abs/1906.06618)
+- Learning a Neural Solver for Multiple Object Tracking, 2020 [link](https://arxiv.org/abs/1912.07515)
 
 #### Prediction
 - MultiPath++, https://arxiv.org/abs/1910.05449
