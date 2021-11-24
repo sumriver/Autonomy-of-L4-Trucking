@@ -26,6 +26,7 @@ Other L4 related, such as RoboTaxi:
 - How To Train Your Deep Multi-Object Tracker, 2020 [link](https://arxiv.org/abs/1906.06618)
 - Learning a Neural Solver for Multiple Object Tracking, 2020 [link](https://arxiv.org/abs/1912.07515)
 - Spatial-Temporal Relation Networks for Multi-Object Tracking, 2019 [link](https://arxiv.org/pdf/1904.11489.pdf)
+- FANTrack: 3D Multi-Object Tracking with Feature Association Network, 2019 [link](https://arxiv.org/abs/1905.02843)
 
 #### Prediction
 - MultiPath++, https://arxiv.org/abs/1910.05449
