@@ -29,7 +29,8 @@ Other L4 related, such as RoboTaxi:
 - FANTrack: 3D Multi-Object Tracking with Feature Association Network, 2019 [link](https://arxiv.org/abs/1905.02843)
 
 #### Prediction
-- MultiPath++, https://arxiv.org/abs/1910.05449
+- MultiPath++, Waymo, [link](https://arxiv.org/abs/1910.05449)
+- Data Driven Prediction Architecture for Autonomous Driving and its Application on Apollo Platform, Baidu Apollo, [link](https://arxiv.org/abs/2006.06715)
 
 #### Motion Planning
 - Overview (zhihu), https://zhuanlan.zhihu.com/p/59089908
