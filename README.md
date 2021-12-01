@@ -22,7 +22,7 @@ Other L4 related, such as RoboTaxi:
 - Fast and furious: Real time end-to-end 3d detection, tracking and motion forecasting with a single convolutional net, 2018 [link](https://openaccess.thecvf.com/content_cvpr_2018/papers/Luo_Fast_and_Furious_CVPR_2018_paper.pdf)
 
 #### Fusion
-- - Cross-Modal 3D Object Detection and Tracking for Auto-Driving, 2021 [link](https://vision.sjtu.edu.cn/files/iros2021_alphatrack.pdf)
+- Cross-Modal 3D Object Detection and Tracking for Auto-Driving, 2021 [link](https://vision.sjtu.edu.cn/files/iros2021_alphatrack.pdf)
 
 #### DL Tracker
 - End-to-End Perception and Prediction with Tracking in the Loop, 2020 [link](https://arxiv.org/pdf/2005.14711.pdf)
