@@ -15,7 +15,11 @@ Other L4 related, such as RoboTaxi:
 - Prof. Raquel Urtasun, http://www.cs.toronto.edu/~urtasun/
 - Bin Yang, Waabi, http://www.cs.toronto.edu/~byang/
 
-## 3. Algorithm of Autonomy
+## 3. System Architeture (online -> test ->  simulation -> validation -> deploy)
+- Motional, https://motional.com/news/technically-speaking-learning-with-every-mile-driven
+- Waymo, 
+
+## 4. Algorithm of Autonomy
 #### Perception
 - FIERY: Future Instance Prediction in Bird's-Eye View from Surround Monocular Cameras, 2021 [link](https://arxiv.org/abs/2104.10490)
 - RadarNet: Exploiting Radar for Robust Perception of Dynamic Objects, [link](https://arxiv.org/pdf/2007.14366.pdf)
@@ -47,19 +51,20 @@ Other L4 related, such as RoboTaxi:
 - Offboard 3D Object Detection from Point Cloud Sequences, 2021 [link](https://arxiv.org/abs/2103.05073)
 - Auto4D: Learning to Label 4D Objects from Sequential Point Clouds, 2021 [link](https://arxiv.org/pdf/2101.06586.pdf)
 
-## 4. Simulation
+## 5. Simulation
 #### Carla, https://github.com/carla-simulator/carla
 #### LGSVL, https://github.com/lgsvl/simulator
+#### Simulation City, Waymo, https://blog.waymo.com/2021/06/SimulationCity.html
 #### Research paper
 - SurfelGAN, [link](https://openaccess.thecvf.com/content_CVPR_2020/papers/Yang_SurfelGAN_Synthesizing_Realistic_Sensor_Data_for_Autonomous_Driving_CVPR_2020_paper.pdf)
 - GeoSim, [link](https://openaccess.thecvf.com/content/CVPR2021/papers/Chen_GeoSim_Realistic_Video_Simulation_via_Geometry-Aware_Composition_for_Self-Driving_CVPR_2021_paper.pdf)
 - Towards Optimal Strategies for Training Self-Driving Perception Models in Simulation, [link](https://arxiv.org/pdf/2111.07971.pdf)
 
-## 5. OpenSource code/dataset
+## 6. OpenSource code/dataset
 #### Code implementation
 - Camera based dense object tracking : https://github.com/SysCV/qd-3dt
 
 #### Dataset
 - https://www.siasearch.io/blog/best-open-source-autonomous-driving-datasets
 
-## 6. Main Challenge
+## 7. Main Challenge
