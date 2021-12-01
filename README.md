@@ -15,9 +15,8 @@ Other L4 related, such as RoboTaxi:
 - Prof. Raquel Urtasun, http://www.cs.toronto.edu/~urtasun/
 - Bin Yang, Waabi, http://www.cs.toronto.edu/~byang/
 
-## 3. System Architeture (online -> test ->  simulation -> validation -> deploy)
+## 3. System Architeture (training -> validation -> deploy)
 - Motional, https://motional.com/news/technically-speaking-learning-with-every-mile-driven
-- Waymo, 
 
 ## 4. Algorithm of Autonomy
 #### Perception
