@@ -37,6 +37,7 @@ Other L4 related, such as RoboTaxi:
 #### Prediction
 - MultiPath++, Waymo, [link](https://arxiv.org/abs/1910.05449)
 - Data Driven Prediction Architecture for Autonomous Driving and its Application on Apollo Platform, Baidu Apollo, [link](https://arxiv.org/abs/2006.06715)
+- Overview : https://kargarisaac.medium.com/behavior-prediction-and-decision-making-in-self-driving-cars-using-deep-learning-784761ed34af
 
 #### Motion Planning
 - Overview (zhihu), https://zhuanlan.zhihu.com/p/59089908
